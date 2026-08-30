@@ -37,7 +37,7 @@
 * **Ministry / Organization: Ministry of Education (MoE), Government of India
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:    SIH26139
+* **Problem Statement Title: Hybrid Quantum Machine Learning Platform for Early Disease Detection
+* **Theme / Category:        MedTech / BioTech / HealthTech
+* **Ministry / Organization: Egreen Quanta
