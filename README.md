@@ -5,15 +5,15 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T348
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<Agentic Coven>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
+|   Team Leader   |    Guru Baskar          | cb.en.u4elc25056       |    Male         |  Btech Elc/EEE                  |  
+|    Member 2     |Tirumalasetti Dharmaveer | CB.SC.U4CSE25255       |    Male         |  Btech CSE                      |  
+|    Member 3     |EDALA.KARTHIKEYA VENKATA DURGA PRASAD|                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
 |    Member 5     |                         |                        |                 |                                 |  
 |    Member 6     |                         |                        |     Female      |                                 |   
