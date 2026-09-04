@@ -41,3 +41,6 @@
 * **Problem Statement Title: Hybrid Quantum Machine Learning Platform for Early Disease Detection
 * **Theme / Category:        MedTech / BioTech / HealthTech
 * **Ministry / Organization: Egreen Quanta
+
+  #### Vedio link :
+  Vedio link : https://youtu.be/DL2RkRXEnsU?si=NJ2TkyqoczM392nE
