@@ -10,7 +10,7 @@
 #### **Team Name** <<Agentic Coven >> <br/>
 #### Team Members
 |     Role    |   👤 Name  |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |Caste Category| Disability Details|
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:--------------------|:-------------------|
 |   Team Leader   |   Guru Baskar           | CB.EN.U4ELC25056       |     Male        |          Btech ELC/EEE          |  BC | NO Disabilty|
 |    Member 2     | Tirumalasetti Dharmaveer| CB.SC.U4CSE25255       |     Male        |          Btech CSE              |  OC|NO Disabilty|
 |    Member 3     |EDALA.KARTHIKEYA VENKATA DURGA PRASAD|CB.SC.U4CSE25617|     Male    |          Btech CSE              |  OC|NO Disabilty|
