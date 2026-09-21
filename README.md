@@ -9,14 +9,14 @@
 ### Team Details
 #### **Team Name** <<Agentic Coven >> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
+|     Role    |   👤 Name  |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |Caste Category| Disability Details|
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |   Guru Baskar           | CB.EN.U4ELC25056       |     Male        |          Btech ELC/EEE          |  
-|    Member 2     | Tirumalasetti Dharmaveer| CB.SC.U4CSE25255       |     Male        |          Btech CSE              |  
-|    Member 3     |EDALA.KARTHIKEYA VENKATA DURGA PRASAD|CB.SC.U4CSE25617|     Male    |          Btech CSE              |  
-|    Member 4     |Kinnera Deepthi          |CB.SC.P2CSE25018        |    Female       |          Mtech CSE              |   
-|    Member 5     |Seema Haasini            | CB.SC.U4CSE25455       |     Female      |          Btech CSE              |  
-|    Member 6     |Mopuri Abhishiktha       | CB.AI.U4AID23063       |     Female      |          Btech AIDS             |   
+|   Team Leader   |   Guru Baskar           | CB.EN.U4ELC25056       |     Male        |          Btech ELC/EEE          |  BC | NO Disabilty|
+|    Member 2     | Tirumalasetti Dharmaveer| CB.SC.U4CSE25255       |     Male        |          Btech CSE              |  OC|NO Disabilty|
+|    Member 3     |EDALA.KARTHIKEYA VENKATA DURGA PRASAD|CB.SC.U4CSE25617|     Male    |          Btech CSE              |  OC|NO Disabilty|
+|    Member 4     |Kinnera Deepthi          |CB.SC.P2CSE25018        |    Female       |          Mtech CSE              |  OC|NO Disabilty|
+|    Member 5     |Seema Haasini            | CB.SC.U4CSE25455       |     Female      |          Btech CSE              |  BC|NO Disabilty|
+|    Member 6     |Mopuri Abhishiktha       | CB.AI.U4AID23063       |     Female      |          Btech AIDS             |   OC|NO Disabilty|
 
 #### Mentor Details
 
