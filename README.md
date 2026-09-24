@@ -42,5 +42,5 @@
 * **Theme / Category:        MedTech / BioTech / HealthTech
 * **Ministry / Organization: Egreen Quanta
 
-  #### Vedio link :
-  Vedio link : https://youtu.be/DL2RkRXEnsU?si=NJ2TkyqoczM392nE
+  #### Video link :
+  Video link : https://youtu.be/DL2RkRXEnsU?si=NJ2TkyqoczM392nE
